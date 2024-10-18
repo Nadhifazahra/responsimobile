@@ -9,7 +9,7 @@ b. Registrasi Berhasil <br>
 <img src="https://github.com/user-attachments/assets/440f97ea-fc2e-43ef-a93d-519a9c7afbaf" width="300"><br>
 
 c. Registrasi Gagal<br>
-<img src="https://github.com/user-attachments/assets/41aea6e3-495f-4957-ba91-d233857afecd" width="300"><br>
+<img src="https://github.com/user-attachments/assets/dc3b1b03-1226-48e8-9e40-41c139e5951b" width="300"><br>
 
 ## Login Page
 a. Tampilan form login<br>

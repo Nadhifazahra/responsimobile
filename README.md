@@ -23,10 +23,28 @@ b. Login gagal <br>
 <img src="https://github.com/user-attachments/assets/5513cfde-af11-40a7-a1e9-1fa3c59e15be" width="300"><br>
 
 ## Tambah Data Penerbit
-a. Tampilan form tambah produk <br>
+a. Tampilan form tambah penerbit <br>
 <img src="https://github.com/user-attachments/assets/4e9909f4-f6b8-4960-8703-8c1f4e8961e8" width="300">
 <img src="https://github.com/user-attachments/assets/1a73e2c7-9687-4d0c-b371-01f14696c8c1" width="300"><br>
 
-b. Hasil tambah produk <br>
-<img src="https://github.com/user-attachments/assets/c975049a-546e-4b84-b510-6ad731f3e445" width="300"><br>
+b. Hasil tambah penerbit <br>
+<img src="https://github.com/user-attachments/assets/3802f197-202e-4eec-8ecb-9a548cb8bd51" width="300"><br>
+
+## Detail Penerbit
+<img src="https://github.com/user-attachments/assets/1cdb7aed-f5a0-4efd-b9be-3dd6c8f33e34" width="300"> <br>
+
+## Ubah Penerbit
+a. Tampilan form ubah penerbit <br>
+<img src="https://github.com/user-attachments/assets/4509d872-2877-45f0-bd42-ae8eaf2c4be1" width="300"> <br>
+<img src="https://github.com/user-attachments/assets/e3989cd1-5326-4b90-8eed-93b2dce00c98" width="300"> <br>
+
+b. Hasil ubah produk <br>
+<img src="https://github.com/user-attachments/assets/05d6b454-37de-4aca-b8d3-3844d30b9fd7" width="300"> <br>
+
+## Hapus Produk
+<img src="https://github.com/user-attachments/assets/9e5fbb7e-077b-441a-a552-8017cc1a707f" width="300"> <br>
+<img src="https://github.com/user-attachments/assets/39924642-e790-43e7-b863-96032152309c" width="300"> <br>
+
+
+
 

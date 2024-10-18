@@ -35,14 +35,14 @@ b. Hasil tambah penerbit <br>
 
 ## Ubah Penerbit
 a. Tampilan form ubah penerbit <br>
-<img src="https://github.com/user-attachments/assets/4509d872-2877-45f0-bd42-ae8eaf2c4be1" width="300"> <br>
+<img src="https://github.com/user-attachments/assets/4509d872-2877-45f0-bd42-ae8eaf2c4be1" width="300">
 <img src="https://github.com/user-attachments/assets/e3989cd1-5326-4b90-8eed-93b2dce00c98" width="300"> <br>
 
 b. Hasil ubah produk <br>
 <img src="https://github.com/user-attachments/assets/05d6b454-37de-4aca-b8d3-3844d30b9fd7" width="300"> <br>
 
 ## Hapus Produk
-<img src="https://github.com/user-attachments/assets/9e5fbb7e-077b-441a-a552-8017cc1a707f" width="300"> <br>
+<img src="https://github.com/user-attachments/assets/9e5fbb7e-077b-441a-a552-8017cc1a707f" width="300">
 <img src="https://github.com/user-attachments/assets/39924642-e790-43e7-b863-96032152309c" width="300"> <br>
 
 
